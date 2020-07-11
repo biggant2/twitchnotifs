@@ -1,0 +1,4 @@
+{
+    "callback_ip": "public ip of your computer **must be port forwarded**",
+    "username": "username of twitch streamer"
+}
